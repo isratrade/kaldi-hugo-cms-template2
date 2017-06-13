@@ -98,6 +98,13 @@ pricing:
         - Unlimited varieties
       plan: Enterprise
       price: '125'
+    - description: EXTRA 4th option? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: CUSTOM
+      price: '999'
 ---
 
 
