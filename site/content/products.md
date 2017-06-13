@@ -96,7 +96,8 @@ pricing:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: '?'
+      plan: Enterprise
+      price: '125'
 ---
+
 
